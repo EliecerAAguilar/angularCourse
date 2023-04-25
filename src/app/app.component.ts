@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class AppComponent {
   title = 'angularCourse';
 }
+
 @Component({
   selector: 'fuzzbuzzApp',
   templateUrl: './reto01.component.html',
